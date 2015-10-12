@@ -68,6 +68,7 @@ body {
 	padding: 72px 48px 84px;
 	margin: 0 auto;
 	color: rgb(60,60,60);
+	background-color: white;
 	-webkit-text-size-adjust: 100%; /* Stops Mobile Safari from auto-adjusting font-sizes */
 }
 
